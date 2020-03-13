@@ -402,4 +402,5 @@ ListingId	ListingDate	SaleDate	SaleAmount	Slug
 178028711	2020-03-03 00:22:13	2020-03-12	By Negotiation	2-shore-place-weston-canberra-178028711
 178034778	2020-03-03 22:52:06	2020-03-12	$608,000	19-121-streeton-drive-stirling-canberra-178034778
 177983634	2020-03-04 09:20:59		$815,000	57-throssell-street-curtin-canberra-177983634
+178042079	2020-03-05 00:02:21		By Negotiation	23-greenman-street-macgregor-canberra-178042079
 178052073	2020-03-06 08:12:01	2020-03-12	By Negotiation	5-byles-place-chisholm-canberra-178052073
