@@ -40,6 +40,7 @@ ListingId	ListingDate	SaleDate	SaleAmount	Slug
 177168673	2019-08-21 23:02:11	2020-03-12	By Negotiation	44-46-honeysett-view-kingston-canberra-177168673
 177169535	2019-08-22 00:11:37	2020-03-12	$387,000	61-41-eastlake-parade-kingston-canberra-177169535
 177182215	2019-08-26 01:42:20	2020-03-12	$606,500	77-11-trevillian-quay-kingston-canberra-177182215
+177223992	2019-09-02 14:00:00		Auction	23-dirrawan-gardens-reid-canberra-177223992
 177229319	2019-09-03 23:41:31	2020-03-12	$310,000	39-60-john-gorton-drive-coombs-canberra-177229319
 177235490	2019-09-05 01:02:26	2020-03-12	$744,000	49-antill-street-downer-canberra-177235490
 177266650	2019-09-11 14:00:00	2020-03-12	$670,000	5-4-ashburton-cct-kaleen-canberra-177266650
@@ -48,6 +49,7 @@ ListingId	ListingDate	SaleDate	SaleAmount	Slug
 178007230	2019-09-17 02:25:22	2020-03-12	$579,000	estate-1-bedroom-7-state-circle-forrest-canberra-178007230
 177300108	2019-09-18 06:51:17	2020-03-12	$1,110,000	9-fortitude-street-red-hill-canberra-177300108
 177299803	2019-09-18 07:51:06	2020-03-12	$300,000	51-25-john-gorton-drive-wright-canberra-177299803
+177236499	2019-09-18 21:27:12		$365,000	120-2-newchurch-street-coombs-canberra-177236499
 177303736	2019-09-18 23:42:32	2020-03-12	$565,000	21-6-cunningham-street-griffith-canberra-177303736
 177304935	2019-09-19 03:21:28	2020-03-12	$958,000	36-bronhill-street-moncrieff-canberra-177304935
 177304988	2019-09-19 03:22:33	2020-03-12	By Negotiation	172-pro-hart-avenue-strathnairn-canberra-177304988
@@ -94,6 +96,7 @@ ListingId	ListingDate	SaleDate	SaleAmount	Slug
 177434911	2019-10-17 06:41:57	2020-03-12	$377,500	64-100-giles-street-kingston-canberra-177434911
 177436913	2019-10-17 21:52:13	2020-03-12	$1,120,000	1-6-gepp-place-pearce-canberra-177436913
 177451553	2019-10-22 04:13:20	2020-03-12	By Negotiation	28-condamine-street-turner-canberra-177451553
+176845758	2019-10-22 22:10:26		By Negotiation	3-bamir-square-ngunnawal-canberra-176845758
 177457115	2019-10-23 00:22:01	2020-03-12	$285,000	7-135-blamey-crescent-campbell-canberra-177457115
 177450039	2019-10-23 04:09:16	2020-03-12	$1,485,000	38-roebuck-street-red-hill-canberra-177450039
 177462000	2019-10-23 22:52:21	2020-03-12	By Negotiation	184-longmore-crescent-wanniassa-canberra-177462000
@@ -182,7 +185,9 @@ ListingId	ListingDate	SaleDate	SaleAmount	Slug
 177661420	2019-12-05 02:52:01	2020-03-12	$360,000	304-74-northbourne-avenue-braddon-canberra-177661420
 177662991	2019-12-05 04:42:11	2020-03-12	$415,000	4-48-sid-barnes-crescent-gordon-canberra-177662991
 177663492	2019-12-05 04:51:50	2020-03-12	$415,000	126-121-easty-street-phillip-canberra-177663492
+177662695	2019-12-05 05:41:44		$328,500	2-65-melba-street-downer-canberra-177662695
 177665928	2019-12-05 07:41:32	2020-03-12	By Negotiation	40-25-aspinall-street-watson-canberra-177665928
+177668331	2019-12-05 13:00:00		By Negotiation	56-1-surprize-place-phillip-canberra-177668331
 177667830	2019-12-05 22:20:38	2020-03-12	$665,000	32-rylstone-crescent-crace-canberra-177667830
 177668354	2019-12-06 00:42:20	2020-03-12	$1,185,000	4b-jose-place-garran-canberra-177668354
 177668374	2019-12-06 02:52:03	2020-03-12	$497,500	28-115-canberra-avenue-griffith-canberra-177668374
