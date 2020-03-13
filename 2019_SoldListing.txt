@@ -43,10 +43,12 @@ ListingId	ListingDate	SaleDate	SaleAmount	Slug
 177223992	2019-09-02 14:00:00		Auction	23-dirrawan-gardens-reid-canberra-177223992
 177229319	2019-09-03 23:41:31	2020-03-12	$310,000	39-60-john-gorton-drive-coombs-canberra-177229319
 177235490	2019-09-05 01:02:26	2020-03-12	$744,000	49-antill-street-downer-canberra-177235490
+177244623	2019-09-06 05:11:18		$221,000	31-6-marrawah-street-lyons-canberra-177244623
 177266650	2019-09-11 14:00:00	2020-03-12	$670,000	5-4-ashburton-cct-kaleen-canberra-177266650
 177268190	2019-09-12 00:22:06	2020-03-12	By Negotiation	7-51-hampton-circuit-yarralumla-canberra-177268190
 177289094	2019-09-17 02:21:27	2020-03-12	$770,000	39-melomys-circuit-throsby-canberra-177289094
 178007230	2019-09-17 02:25:22	2020-03-12	$579,000	estate-1-bedroom-7-state-circle-forrest-canberra-178007230
+177292947	2019-09-17 06:50:31		By Negotiation	147-2-windjana-street-harrison-canberra-177292947
 177300108	2019-09-18 06:51:17	2020-03-12	$1,110,000	9-fortitude-street-red-hill-canberra-177300108
 177299803	2019-09-18 07:51:06	2020-03-12	$300,000	51-25-john-gorton-drive-wright-canberra-177299803
 177236499	2019-09-18 21:27:12		$365,000	120-2-newchurch-street-coombs-canberra-177236499
@@ -79,6 +81,7 @@ ListingId	ListingDate	SaleDate	SaleAmount	Slug
 177397766	2019-10-09 23:52:25	2020-03-12	$695,000	46-edgeworth-parade-coombs-canberra-177397766
 177336682	2019-10-10 00:51:30	2020-03-12	$420,000	14-25-forbes-street-turner-canberra-177336682
 177397744	2019-10-10 00:52:18	2020-03-12	$875,000	15-kirkwood-crescent-gordon-canberra-177397744
+177400676	2019-10-11 01:06:29		$1,550,000	14-waygoose-street-kingston-canberra-177400676
 177405500	2019-10-11 03:11:10	2020-03-12	$305,000	5-39-jerrabomberra-avenue-narrabundah-canberra-177405500
 178009454	2019-10-11 06:21:53	2020-03-12	$640,000	kingsborough-trackside-two-bedroom-townhouse-kingston-canberra-178009454
 177411326	2019-10-14 04:52:45	2020-03-12	$530,000	78-8-dominion-circuit-forrest-canberra-177411326
@@ -175,6 +178,7 @@ ListingId	ListingDate	SaleDate	SaleAmount	Slug
 177647885	2019-12-02 23:12:04	2020-03-12	$365,000	8-4-jeff-snell-street-dunlop-canberra-177647885
 177641882	2019-12-03 22:29:15	2020-03-12	$455,000	514-107-canberra-avenue-griffith-canberra-177641882
 177653014	2019-12-03 22:32:02	2020-03-12	By Negotiation	5-marlee-place-narrabundah-canberra-177653014
+177650930	2019-12-04 01:30:08		$495,000	8-61-ashby-circuit-kambah-canberra-177650930
 177654618	2019-12-04 01:31:23	2020-03-12	$275,000	31-177-badimara-street-fisher-canberra-177654618
 177656642	2019-12-04 03:30:27	2020-03-12	$600,000	2-87-antill-street-downer-canberra-177656642
 177659653	2019-12-04 09:00:22	2020-03-12	$385,000	25-28-mort-street-braddon-canberra-177659653
