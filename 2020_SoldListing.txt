@@ -428,6 +428,7 @@ ListingId	ListingDate	SaleDate	SaleAmount	Slug
 177984902	2020-02-20 02:22:04		By Negotiation	70-armstrong-crescent-holt-canberra-177984902
 177985570	2020-02-20 03:21:22		$470,000	5-54-macleay-street-turner-canberra-177985570
 177983569	2020-02-20 05:51:01		$788,000	30-nimbera-street-harrison-canberra-177983569
+177989914	2020-02-21 01:21:04		Auction - $1,111,000	52-cockle-street-o-connor-canberra-177989914
 177996069	2020-02-24 01:42:06		Auction	22-gormanston-crescent-deakin-canberra-177996069
 178001331	2020-02-25 00:50:54		$641,500	8-baynton-street-richardson-canberra-178001331
 178011458	2020-02-26 17:31:19		By Negotiation	8-nulsen-circuit-flynn-canberra-178011458
