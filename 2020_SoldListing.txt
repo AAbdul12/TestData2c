@@ -360,7 +360,7 @@ ListingId	ListingDate	SaleDate	SaleAmount	Slug
 177951259	2020-02-12 22:12:53	2020-03-07	Auction - $760,000	27-tiptree-crescent-palmerston-canberra-177951259
 177951114	2020-02-12 22:32:37		Auction - Sold Prior - $920,000	63-creswell-street-campbell-canberra-177951114
 177947949	2020-02-12 22:47:54		$430,000	6-50-embling-street-wanniassa-canberra-177947949
-177951436	2020-02-12 22:52:02		Auction - $995,000	22-mills-street-hackett-canberra-177951436
+177951436	2020-02-12 22:52:02	2020-03-14	Auction - $995,000	22-mills-street-hackett-canberra-177951436
 177951115	2020-02-12 22:52:06		By Negotiation	24-6-grose-street-deakin-canberra-177951115
 177950864	2020-02-12 22:52:19		By Negotiation	22-6-grose-street-deakin-canberra-177950864
 177951390	2020-02-12 22:52:28	2020-03-14	Auction - Sold Prior - $861,111	121-madigan-street-hackett-canberra-177951390
