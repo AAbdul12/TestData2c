@@ -110,7 +110,7 @@ ListingId	ListingDate	SaleDate	SaleAmount	Slug
 177457115	2019-10-23 00:22:01	0	$285,000	7-135-blamey-crescent-campbell-canberra-177457115
 177450039	2019-10-23 04:09:16	0	$1,485,000	38-roebuck-street-red-hill-canberra-177450039
 177462000	2019-10-23 22:52:21	0	By Negotiation	184-longmore-crescent-wanniassa-canberra-177462000
-177469299	2019-10-24 22:01:05		$1,110,000	2-5-birdwood-street-hughes-canberra-177469299
+177469299	2019-10-24 22:01:05	1990-01-01	$1,110,000	2-5-birdwood-street-hughes-canberra-177469299
 178014020	2019-10-25 02:47:46	0	$1,399,900	renaissance-3-bedroom-griffith-canberra-178014020
 177457129	2019-10-27 13:00:00	2020-03-07	Auction	11-staaten-crescent-kaleen-canberra-177457129
 177476838	2019-10-28 02:21:52	0	$633,000	8-12-redwater-place-amaroo-canberra-177476838
