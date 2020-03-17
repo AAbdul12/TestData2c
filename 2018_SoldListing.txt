@@ -1,22 +1,22 @@
 ListingId	ListingDate	SaleDate	SaleAmount	Slug
-174795293	2018-01-11 04:02:23		$333,000	209-41-chandler-street-belconnen-canberra-174795293
-174823843	2018-01-18 02:43:14		$370,000	8-11-forbes-street-turner-canberra-174823843
-174859832	2018-01-30 04:53:00		$315,000	717-17-dooring-street-braddon-canberra-174859832
-175006313	2018-02-28 13:00:00		By Negotiation	80-ada-norris-avenue-denman-prospect-canberra-175006313
-175055175	2018-03-13 23:12:34		$980,000	43-hawkesbury-crescent-farrer-canberra-175055175
-175255493	2018-05-02 06:02:07		$285,000	1515-120-eastern-valley-way-belconnen-canberra-175255493
-175672922	2018-08-16 22:50:29		By Negotiation	1-17-coane-street-holder-canberra-175672922
-175654904	2018-08-22 14:00:00		$250,000	22-177-badimara-street-fisher-canberra-175654904
-175698156	2018-08-23 04:02:07		By Negotiation	32-rosebery-street-fisher-canberra-175698156
-175797432	2018-09-17 05:52:39		$985,000	5-2-bindel-street-aranda-canberra-175797432
-175863758	2018-10-03 06:30:37		$240,000	63-banksia-drive-symonston-canberra-175863758
-175902984	2018-10-12 01:32:16		$630,000	35-mentone-view-conder-canberra-175902984
-175942254	2018-10-23 00:29:35		$1,125,000	3-watt-street-campbell-canberra-175942254
-175972631	2018-10-28 13:00:00		$248,000	24-137-blamey-crescent-campbell-canberra-175972631
-175981438	2018-10-30 05:40:40		By Negotiation	604-102-northbourne-avenue-braddon-canberra-175981438
-175978581	2018-11-01 19:42:34		By Negotiation	25-mugga-way-red-hill-canberra-175978581
-175950174	2018-11-01 20:41:09		$570,000	1-forsyth-place-charnwood-canberra-175950174
-176025333	2018-11-07 13:00:00		$517,500	31-77-northbourne-avenue-turner-canberra-176025333
-177947277	2018-11-08 23:24:46		$695,000	altura-3-bedroom-townhouse-denman-prospect-canberra-177947277
-176145510	2018-12-06 04:21:13		$925,000	35-curlewis-crescent-garran-canberra-176145510
-176180380	2018-12-16 13:00:00		$1,413,740	2-12a-hardman-street-o-connor-canberra-176180380
+174795293	2018-01-11 04:02:23	1990-01-01	$333,000	209-41-chandler-street-belconnen-canberra-174795293
+174823843	2018-01-18 02:43:14	1990-01-01	$370,000	8-11-forbes-street-turner-canberra-174823843
+174859832	2018-01-30 04:53:00	1990-01-01	$315,000	717-17-dooring-street-braddon-canberra-174859832
+175006313	2018-02-28 13:00:00	1990-01-01	By Negotiation	80-ada-norris-avenue-denman-prospect-canberra-175006313
+175055175	2018-03-13 23:12:34	1990-01-01	$980,000	43-hawkesbury-crescent-farrer-canberra-175055175
+175255493	2018-05-02 06:02:07	1990-01-01	$285,000	1515-120-eastern-valley-way-belconnen-canberra-175255493
+175672922	2018-08-16 22:50:29	1990-01-01	By Negotiation	1-17-coane-street-holder-canberra-175672922
+175654904	2018-08-22 14:00:00	1990-01-01	$250,000	22-177-badimara-street-fisher-canberra-175654904
+175698156	2018-08-23 04:02:07	1990-01-01	By Negotiation	32-rosebery-street-fisher-canberra-175698156
+175797432	2018-09-17 05:52:39	1990-01-01	$985,000	5-2-bindel-street-aranda-canberra-175797432
+175863758	2018-10-03 06:30:37	1990-01-01	$240,000	63-banksia-drive-symonston-canberra-175863758
+175902984	2018-10-12 01:32:16	1990-01-01	$630,000	35-mentone-view-conder-canberra-175902984
+175942254	2018-10-23 00:29:35	1990-01-01	$1,125,000	3-watt-street-campbell-canberra-175942254
+175972631	2018-10-28 13:00:00	1990-01-01	$248,000	24-137-blamey-crescent-campbell-canberra-175972631
+175981438	2018-10-30 05:40:40	1990-01-01	By Negotiation	604-102-northbourne-avenue-braddon-canberra-175981438
+175978581	2018-11-01 19:42:34	1990-01-01	By Negotiation	25-mugga-way-red-hill-canberra-175978581
+175950174	2018-11-01 20:41:09	1990-01-01	$570,000	1-forsyth-place-charnwood-canberra-175950174
+176025333	2018-11-07 13:00:00	1990-01-01	$517,500	31-77-northbourne-avenue-turner-canberra-176025333
+177947277	2018-11-08 23:24:46	1990-01-01	$695,000	altura-3-bedroom-townhouse-denman-prospect-canberra-177947277
+176145510	2018-12-06 04:21:13	1990-01-01	$925,000	35-curlewis-crescent-garran-canberra-176145510
+176180380	2018-12-16 13:00:00	1990-01-01	$1,413,740	2-12a-hardman-street-o-connor-canberra-176180380
