@@ -19,6 +19,6 @@ ListingId	ListingDate	SaleDate	SaleAmount	Slug
 176025333	2018-11-07 13:00:00	2020-03-06	$517,500	31-77-northbourne-avenue-turner-canberra-176025333
 177947277	2018-11-08 23:24:46	1990-01-01	$695,000	altura-3-bedroom-townhouse-denman-prospect-canberra-177947277
 176041469	2018-11-22 01:30:57	2020-03-17	$450,000	34-40-henry-kendall-street-franklin-canberra-176041469
-178098093	2018-11-29 23:41:41		$750,000	limani-townhouse-4-greenway-canberra-178098093
+178098093	2018-11-29 23:41:41	2020-03-20	$750,000	limani-townhouse-4-greenway-canberra-178098093
 176145510	2018-12-06 04:21:13	2020-03-10	$925,000	35-curlewis-crescent-garran-canberra-176145510
 176180380	2018-12-16 13:00:00	2020-02-20	$1,413,740	2-12a-hardman-street-o-connor-canberra-176180380
