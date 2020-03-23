@@ -2,6 +2,7 @@ ListingId	ListingDate	SaleDate	SaleAmount	Slug
 174795293	2018-01-11 04:02:23	2020-03-12	$333,000	209-41-chandler-street-belconnen-canberra-174795293
 174823843	2018-01-18 02:43:14	2020-02-24	$370,000	8-11-forbes-street-turner-canberra-174823843
 174859832	2018-01-30 04:53:00	2020-03-10	$315,000	717-17-dooring-street-braddon-canberra-174859832
+174971890	2018-02-20 13:00:00		$410,000	7-2-serventy-street-wright-canberra-174971890
 175006313	2018-02-28 13:00:00	2020-02-20	By Negotiation	80-ada-norris-avenue-denman-prospect-canberra-175006313
 175055175	2018-03-13 23:12:34	2020-02-27	$980,000	43-hawkesbury-crescent-farrer-canberra-175055175
 175255493	2018-05-02 06:02:07	1990-01-01	$285,000	1515-120-eastern-valley-way-belconnen-canberra-175255493
