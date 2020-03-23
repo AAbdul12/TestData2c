@@ -6,6 +6,7 @@ ListingId	ListingDate	SaleDate	SaleAmount	Slug
 175055175	2018-03-13 23:12:34	2020-02-27	$980,000	43-hawkesbury-crescent-farrer-canberra-175055175
 175255493	2018-05-02 06:02:07	1990-01-01	$285,000	1515-120-eastern-valley-way-belconnen-canberra-175255493
 175672922	2018-08-16 22:50:29	2020-03-10	By Negotiation	1-17-coane-street-holder-canberra-175672922
+175684919	2018-08-21 00:42:30		By Negotiation	102-39-benjamin-way-belconnen-canberra-175684919
 175654904	2018-08-22 14:00:00	2020-02-28	$250,000	22-177-badimara-street-fisher-canberra-175654904
 175698156	2018-08-23 04:02:07	2020-03-02	By Negotiation	32-rosebery-street-fisher-canberra-175698156
 175797432	2018-09-17 05:52:39	1990-01-01	$985,000	5-2-bindel-street-aranda-canberra-175797432
