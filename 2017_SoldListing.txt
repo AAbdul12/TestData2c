@@ -1,2 +1,3 @@
 ListingId	ListingDate	SaleDate	SaleAmount	Slug
+174095677	2017-08-02 03:22:00		$1,210,000	18-lane-poole-place-yarralumla-canberra-174095677
 178057208	2017-09-13 06:29:46	2020-03-11	$659,900	evergreen-4-bedroom-townhouse-coombs-canberra-178057208
