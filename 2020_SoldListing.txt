@@ -122,6 +122,7 @@ ListingId	ListingDate	SaleDate	SaleAmount	Slug
 177857615	2020-01-22 23:14:30	2020-02-25	Auction	78-mugga-way-red-hill-canberra-177857615
 177859969	2020-01-22 23:30:53	1990-01-01	Auction - $880,500	18-tadgell-place-florey-canberra-177859969
 177859759	2020-01-22 23:38:39	1990-01-01	Auction - $621,000	18-nangi-place-ngunnawal-canberra-177859759
+177859832	2020-01-22 23:45:54		$295,150	17-32-springvale-drive-hawker-canberra-177859832
 177859937	2020-01-22 23:50:56	1990-01-01	$600,000	7-35-laird-crescent-forde-canberra-177859937
 177859947	2020-01-23 00:02:06	2020-03-17	$349,000	19-21-battye-street-bruce-canberra-177859947
 177860048	2020-01-23 00:11:08	2020-03-02	$420,000	203-24-philip-hodgins-street-wright-canberra-177860048
@@ -411,6 +412,7 @@ ListingId	ListingDate	SaleDate	SaleAmount	Slug
 177951129	2020-02-12 22:02:02	2020-03-16	$370,000	22-2-trist-street-franklin-canberra-177951129
 177951154	2020-02-12 22:12:01	2020-03-07	Auction - $687,000	3-newstead-street-amaroo-canberra-177951154
 177951259	2020-02-12 22:12:53	2020-03-07	Auction - $760,000	27-tiptree-crescent-palmerston-canberra-177951259
+177951222	2020-02-12 22:22:03		$392,000	27-126-thynne-street-bruce-canberra-177951222
 177951114	2020-02-12 22:32:37	2020-03-05	Auction - Sold Prior - $920,000	63-creswell-street-campbell-canberra-177951114
 178068284	2020-02-12 22:41:27	1990-01-01	$449,900	valo-2-telfer-st-coombs-canberra-178068284
 178068370	2020-02-12 22:45:45	1990-01-01	$489,900	valo-2-telfer-st-coombs-canberra-178068370
@@ -496,43 +498,62 @@ ListingId	ListingDate	SaleDate	SaleAmount	Slug
 177983831	2020-02-20 00:21:14	2020-03-14	Auction - $830,000	28-dartnell-street-gowrie-canberra-177983831
 177983815	2020-02-20 00:31:03	2020-03-14	Auction - $820,000	17-bennelong-crescent-macquarie-canberra-177983815
 177983999	2020-02-20 00:31:20	2020-03-20	Auction - $836,000	86-overall-avenue-casey-canberra-177983999
+177984010	2020-02-20 00:50:59		By Negotiation	13-15-17-majura-avenue-dickson-canberra-177984010
 177984902	2020-02-20 02:22:04	2020-02-28	By Negotiation	70-armstrong-crescent-holt-canberra-177984902
 177985570	2020-02-20 03:21:22	2020-02-27	$470,000	5-54-macleay-street-turner-canberra-177985570
 177986436	2020-02-20 04:21:18	2020-03-18	$460,000	8-17-ashley-drive-wanniassa-canberra-177986436
 177983569	2020-02-20 05:51:01	2020-03-11	$788,000	30-nimbera-street-harrison-canberra-177983569
 177989675	2020-02-21 00:50:33	2020-03-20	$625,000	29-5-hely-street-griffith-canberra-177989675
+177983479	2020-02-21 01:01:08		Auction	58-langtree-crescent-crace-canberra-177983479
 177989914	2020-02-21 01:21:04	2020-03-14	Auction - $1,111,000	52-cockle-street-o-connor-canberra-177989914
 177990278	2020-02-21 01:31:22	2020-03-18	Auction - Sold Prior - $820,500	12-capella-crescent-giralang-canberra-177990278
 177996069	2020-02-24 01:42:06	2020-03-13	Auction	22-gormanston-crescent-deakin-canberra-177996069
 177997885	2020-02-24 05:31:45	2020-03-17	Auction - $935,000	12-fernyhough-crescent-lyneham-canberra-177997885
-177984051	2020-02-24 19:28:59	2020-03-17	Auction - Sold Prior - $1,053,500	12-guy-place-holder-canberra-177984051
+177984051	2020-02-24 19:28:59	2020-03-21	Auction - Sold Prior - $1,053,500	12-guy-place-holder-canberra-177984051
 178001331	2020-02-25 00:50:54	2020-03-11	$641,500	8-baynton-street-richardson-canberra-178001331
 178005915	2020-02-25 21:20:16	2020-03-17	$370,000	8-140-port-jackson-circuit-phillip-canberra-178005915
 178006027	2020-02-25 21:20:19	2020-03-19	$758,000	8-pogson-street-moncrieff-canberra-178006027
 178005783	2020-02-25 21:30:22	2020-03-18	$770,000	5-lester-terrace-moncrieff-canberra-178005783
 178006117	2020-02-25 22:20:52	2020-03-20	$772,000	39-herschell-circuit-flynn-canberra-178006117
+178006034	2020-02-25 22:41:26	2020-03-21	Auction - $1,290,000	27-sue-geh-circuit-nicholls-canberra-178006034
 178006101	2020-02-25 22:41:50	2020-03-17	$930,000	22-51-musgrave-street-yarralumla-canberra-178006101
 178006173	2020-02-26 00:00:59	2020-03-19	$705,000	54-haystack-crescent-palmerston-canberra-178006173
+178006608	2020-02-26 00:31:29	2020-03-21	Auction - $562,000	111-marchant-circuit-dunlop-canberra-178006608
 178006602	2020-02-26 01:01:51	2020-03-18	$387,500	69-10-hinder-street-gungahlin-canberra-178006602
 178007450	2020-02-26 02:11:10	2020-03-18	$545,000	10-holland-street-macgregor-canberra-178007450
+178011548	2020-02-26 13:30:13	2020-03-21	Auction - $1,006,000	9-verran-place-curtin-canberra-178011548
+178108706	2020-02-26 17:16:46		$619,900	norrebro-21-negus-crescent-watson-canberra-178108706
 178011458	2020-02-26 17:31:19	2020-03-10	By Negotiation	8-nulsen-circuit-flynn-canberra-178011458
+178100442	2020-02-26 17:50:06		$329,900	norrebro-21-negus-crescent-watson-canberra-178100442
 178098094	2020-02-26 18:27:18	2020-03-20	$604,900	norrebro-21-negus-crescent-watson-canberra-178098094
-178011545	2020-02-26 19:00:11	2020-03-19	Auction - Sold Prior - $560,000	4-30-coane-street-holder-canberra-178011545
+178011245	2020-02-26 18:30:11	2020-03-21	Auction	10-petre-place-scullin-canberra-178011245
+178011375	2020-02-26 18:40:14	2020-03-21	Auction	13-kaeppel-place-isaacs-canberra-178011375
+178011545	2020-02-26 19:00:11	2020-03-21	Auction - Sold Prior - $560,000	4-30-coane-street-holder-canberra-178011545
+178011460	2020-02-26 19:00:22	2020-03-21	Auction - $760,000	47-peter-cullen-way-wright-canberra-178011460
+178011588	2020-02-26 19:10:24	2020-03-21	Auction	4-jacoby-place-stirling-canberra-178011588
+178011636	2020-02-26 20:30:15	2020-03-21	Auction	10-sollya-place-rivett-canberra-178011636
 178011461	2020-02-26 20:30:30	2020-03-16	Auction	19-julia-flynn-avenue-isaacs-canberra-178011461
 178011582	2020-02-26 21:20:22	2020-03-17	By Negotiation	4-john-james-loop-macgregor-canberra-178011582
+178011670	2020-02-26 21:40:39	2020-03-21	Auction - $3,340,000	97-jansz-crescent-griffith-canberra-178011670
 178011631	2020-02-26 21:50:28	2020-03-13	$185,000	40-horizon-avenue-symonston-canberra-178011631
 178011797	2020-02-26 22:20:37	2020-03-10	$472,500	11-8-edmondson-street-campbell-canberra-178011797
 177968089	2020-02-26 22:50:01	2020-03-12	$560,000	16-mockridge-crescent-holt-canberra-177968089
 178012002	2020-02-26 23:51:29	2020-03-13	By Negotiation	60-william-hudson-crescent-monash-canberra-178012002
+178012417	2020-02-27 00:42:13	2020-03-21	Auction - $975,000	51-julia-flynn-avenue-isaacs-canberra-178012417
 178012476	2020-02-27 00:42:14	2020-03-13	Auction - Sold Prior - $450,000	17-50-lampard-circuit-bruce-canberra-178012476
 178013917	2020-02-27 02:30:55	2020-03-19	$339,000	15-57-benjamin-way-belconnen-canberra-178013917
+178014950	2020-02-27 04:51:12	2020-03-21	Auction - $511,000	19-roughley-place-florey-canberra-178014950
+178017618	2020-02-27 22:00:31		Auction - $753,000	15-mchenry-street-amaroo-canberra-178017618
+178017195	2020-02-27 22:02:51		Auction - $615,500	7-olga-masters-street-franklin-canberra-178017195
+178017545	2020-02-27 22:30:56		Auction - $550,000	20-marungul-avenue-ngunnawal-canberra-178017545
 178017719	2020-02-27 23:00:44	2020-03-12	$840,000	7-trephina-street-harrison-canberra-178017719
-178017654	2020-02-27 23:31:06	2020-03-20	Auction - Sold Prior - $1,230,000	45-waller-crescent-campbell-canberra-178017654
+178017654	2020-02-27 23:31:06	2020-03-21	Auction - Sold Prior - $1,230,000	45-waller-crescent-campbell-canberra-178017654
 178017834	2020-02-28 01:01:07	2020-03-20	Auction	77-44-jerrabomberra-avenue-narrabundah-canberra-178017834
 178019897	2020-02-28 04:51:15	2020-03-06	$400,000	6-30-watson-street-turner-canberra-178019897
 178025681	2020-03-02 03:22:04	2020-03-12	By Negotiation	42-boote-street-spence-canberra-178025681
-178028526	2020-03-02 22:52:04	2020-03-20	By Negotiation	8-gulgong-place-fisher-canberra-178028526
+178028526	2020-03-02 22:52:04	2020-03-21	By Negotiation	8-gulgong-place-fisher-canberra-178028526
 178028711	2020-03-03 00:22:13	1990-01-01	By Negotiation	2-shore-place-weston-canberra-178028711
+178034308	2020-03-03 14:00:14	2020-03-21	Auction	13-johnstone-circuit-calwell-canberra-178034308
 178034778	2020-03-03 22:52:06	2020-03-11	$608,000	19-121-streeton-drive-stirling-canberra-178034778
 178034152	2020-03-03 23:12:10	2020-03-20	$485,000	30-41-arthur-blakeley-way-coombs-canberra-178034152
 178034966	2020-03-04 00:01:07	2020-03-19	$1,375,000	1a-sheehan-street-pearce-canberra-178034966
@@ -544,11 +565,13 @@ ListingId	ListingDate	SaleDate	SaleAmount	Slug
 178042017	2020-03-04 21:52:31	2020-03-17	Auction	148-kitchener-street-garran-canberra-178042017
 178042066	2020-03-04 22:12:04	2020-03-19	$739,000	10-markham-street-mawson-canberra-178042066
 178042079	2020-03-05 00:02:21	2020-03-13	By Negotiation	23-greenman-street-macgregor-canberra-178042079
+178047621	2020-03-05 22:00:30		Auction - Sold Prior - $790,000	1-morant-circuit-kambah-canberra-178047621
 178052073	2020-03-06 08:12:01	2020-03-06	By Negotiation	5-byles-place-chisholm-canberra-178052073
 178062836	2020-03-10 21:32:02	2020-03-19	Auction - Sold Prior - $977,000	18-harcourt-street-weetangera-canberra-178062836
 178065238	2020-03-11 04:12:06	2020-03-18	By Negotiation	12-roy-marika-street-bonner-canberra-178065238
 178068450	2020-03-11 18:12:01	2020-03-19	Auction	13-coglin-place-kambah-canberra-178068450
 178068579	2020-03-11 22:22:02	2020-03-19	Auction	10a-frome-street-narrabundah-canberra-178068579
+178075477	2020-03-12 10:52:00	2020-03-21	Auction - $1,050,000	10-kidston-crescent-curtin-canberra-178075477
 178078402	2020-03-13 05:12:07	2020-03-13	By Negotiation	1-edwards-street-higgins-canberra-178078402
 178068283	2020-03-15 02:46:30	1990-01-01	$449,900	valo-2-telfer-st-coombs-canberra-178068283
 178081697	2020-03-15 23:32:06	2020-03-19	Auction - Sold Prior - $890,000	74-barada-crescent-aranda-canberra-178081697
