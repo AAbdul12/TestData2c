@@ -10,7 +10,7 @@ ListingId	ListingDate	SaleDate	SaleAmount	Slug
 175684919	2018-08-21 00:42:30	2020-03-20	By Negotiation	102-39-benjamin-way-belconnen-canberra-175684919
 175654904	2018-08-22 14:00:00	2020-02-28	$250,000	22-177-badimara-street-fisher-canberra-175654904
 175698156	2018-08-23 04:02:07	2020-03-02	By Negotiation	32-rosebery-street-fisher-canberra-175698156
-175760370	2018-09-14 04:04:08		$515,000	ivy-type-2g-15-irving-street-woden-canberra-175760370
+175760370	2018-09-14 04:04:08	2020-03-26	$515,000	ivy-type-2g-15-irving-street-woden-canberra-175760370
 175797432	2018-09-17 05:52:39	2020-02-14	$985,000	5-2-bindel-street-aranda-canberra-175797432
 175863758	2018-10-03 06:30:37	2020-02-13	$240,000	63-banksia-drive-symonston-canberra-175863758
 175902984	2018-10-12 01:32:16	2020-03-10	$630,000	35-mentone-view-conder-canberra-175902984
@@ -21,10 +21,11 @@ ListingId	ListingDate	SaleDate	SaleAmount	Slug
 175950174	2018-11-01 20:41:09	2020-03-05	$570,000	1-forsyth-place-charnwood-canberra-175950174
 176025333	2018-11-07 13:00:00	2020-03-06	$517,500	31-77-northbourne-avenue-turner-canberra-176025333
 177947277	2018-11-08 23:24:46	2000-01-01	$695,000	altura-3-bedroom-townhouse-denman-prospect-canberra-177947277
-176056309	2018-11-15 22:15:00		$1,879,000	3-borrowdale-street-red-hill-canberra-176056309
+176056309	2018-11-15 22:15:00	2020-03-27	$1,879,000	3-borrowdale-street-red-hill-canberra-176056309
+176076688	2018-11-20 04:21:34		$505,000	11-54-moore-street-turner-canberra-176076688
 176041469	2018-11-22 01:30:57	2020-03-17	$450,000	34-40-henry-kendall-street-franklin-canberra-176041469
 178098093	2018-11-29 23:41:41	2020-03-20	$750,000	limani-townhouse-4-greenway-canberra-178098093
 176145510	2018-12-06 04:21:13	2020-03-10	$925,000	35-curlewis-crescent-garran-canberra-176145510
 176148771	2018-12-06 21:41:21	2020-03-23	$440,000	704-53-mort-street-braddon-canberra-176148771
 176180380	2018-12-16 13:00:00	2020-02-20	$1,413,740	2-12a-hardman-street-o-connor-canberra-176180380
-176170499	2018-12-20 00:25:09		$520,000	ivy-type-2c-15-irving-street-woden-canberra-176170499
+176170499	2018-12-20 00:25:09	2020-03-26	$520,000	ivy-type-2c-15-irving-street-woden-canberra-176170499
