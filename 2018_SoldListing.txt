@@ -5,7 +5,7 @@ ListingId	ListingDate	SaleDate	SaleAmount	Slug
 174971890	2018-02-20 13:00:00	2020-03-23	$410,000	7-2-serventy-street-wright-canberra-174971890
 175006313	2018-02-28 13:00:00	2020-02-20	By Negotiation	80-ada-norris-avenue-denman-prospect-canberra-175006313
 175055175	2018-03-13 23:12:34	2020-02-27	$980,000	43-hawkesbury-crescent-farrer-canberra-175055175
-178155161	2018-03-14 22:47:23		$620,000	founders-lane-stage-two-provenance-2-bedroom-braddon-canberra-178155161
+178155161	2018-03-14 22:47:23	2020-04-03	$620,000	founders-lane-stage-two-provenance-2-bedroom-braddon-canberra-178155161
 175255493	2018-05-02 06:02:07	2000-01-01	$285,000	1515-120-eastern-valley-way-belconnen-canberra-175255493
 175672922	2018-08-16 22:50:29	2020-03-10	By Negotiation	1-17-coane-street-holder-canberra-175672922
 175684919	2018-08-21 00:42:30	2020-03-20	By Negotiation	102-39-benjamin-way-belconnen-canberra-175684919
@@ -13,17 +13,17 @@ ListingId	ListingDate	SaleDate	SaleAmount	Slug
 175698156	2018-08-23 04:02:07	2020-03-02	By Negotiation	32-rosebery-street-fisher-canberra-175698156
 175760370	2018-09-14 04:04:08	2020-03-26	$515,000	ivy-type-2g-15-irving-street-woden-canberra-175760370
 175797432	2018-09-17 05:52:39	2020-02-14	$985,000	5-2-bindel-street-aranda-canberra-175797432
-175860413	2018-10-03 00:32:10		$476,000	2-secretary-street-bonner-canberra-175860413
+175860413	2018-10-03 00:32:10	2020-04-01	$476,000	2-secretary-street-bonner-canberra-175860413
 175863758	2018-10-03 06:30:37	2020-02-13	$240,000	63-banksia-drive-symonston-canberra-175863758
 175902984	2018-10-12 01:32:16	2020-03-10	$630,000	35-mentone-view-conder-canberra-175902984
 175942254	2018-10-23 00:29:35	2020-02-14	$1,125,000	3-watt-street-campbell-canberra-175942254
-178156852	2018-10-26 06:38:28		$650,000	founders-lane-stage-two-provenance-2-bed-2-bath-braddon-canberra-178156852
+178156852	2018-10-26 06:38:28	2020-04-02	$650,000	founders-lane-stage-two-provenance-2-bed-2-bath-braddon-canberra-178156852
 175972631	2018-10-28 13:00:00	2020-02-27	$248,000	24-137-blamey-crescent-campbell-canberra-175972631
 175981438	2018-10-30 05:40:40	2020-02-14	By Negotiation	604-102-northbourne-avenue-braddon-canberra-175981438
 175978581	2018-11-01 19:42:34	2020-03-07	By Negotiation	25-mugga-way-red-hill-canberra-175978581
 175950174	2018-11-01 20:41:09	2020-03-05	$570,000	1-forsyth-place-charnwood-canberra-175950174
 176025333	2018-11-07 13:00:00	2020-03-06	$517,500	31-77-northbourne-avenue-turner-canberra-176025333
-175999153	2018-11-08 08:34:13		$530,000	ivy-type-2j-15-irving-street-woden-canberra-175999153
+175999153	2018-11-08 08:34:13	2020-04-06	$530,000	ivy-type-2j-15-irving-street-woden-canberra-175999153
 177947277	2018-11-08 23:24:46	2000-01-01	$695,000	altura-3-bedroom-townhouse-denman-prospect-canberra-177947277
 176056309	2018-11-15 22:15:00	2020-03-27	$1,879,000	3-borrowdale-street-red-hill-canberra-176056309
 176076688	2018-11-20 04:21:34	2020-03-31	$505,000	11-54-moore-street-turner-canberra-176076688
