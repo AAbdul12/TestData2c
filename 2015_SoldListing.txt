@@ -1,0 +1,2 @@
+ListingId	ListingDate	SaleDate	SaleAmount	Slug
+170514217	2015-09-21 05:57:00		$380,000	52-macleay-street-turner-canberra-170514217
