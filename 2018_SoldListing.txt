@@ -7,7 +7,7 @@ ListingId	ListingDate	SaleDate	SaleAmount	Slug
 175055175	2018-03-13 23:12:34	2020-02-27	$980,000	43-hawkesbury-crescent-farrer-canberra-175055175
 178155161	2018-03-14 22:47:23	2020-04-03	$620,000	founders-lane-stage-two-provenance-2-bedroom-braddon-canberra-178155161
 175255493	2018-05-02 06:02:07	2000-01-01	$285,000	1515-120-eastern-valley-way-belconnen-canberra-175255493
-175236206	2018-05-03 00:49:41		By Negotiation	18-28-torrens-street-braddon-canberra-175236206
+175236206	2018-05-03 00:49:41	2020-04-07	By Negotiation	18-28-torrens-street-braddon-canberra-175236206
 175672922	2018-08-16 22:50:29	2020-03-10	By Negotiation	1-17-coane-street-holder-canberra-175672922
 175684919	2018-08-21 00:42:30	2020-03-20	By Negotiation	102-39-benjamin-way-belconnen-canberra-175684919
 175654904	2018-08-22 14:00:00	2020-02-28	$250,000	22-177-badimara-street-fisher-canberra-175654904
