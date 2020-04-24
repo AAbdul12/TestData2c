@@ -9,17 +9,17 @@ ListingId	ListingDate	SaleDate	SaleAmount	Slug
 178155161	2018-03-14 22:47:23	2020-04-03	$620,000	founders-lane-stage-two-provenance-2-bedroom-braddon-canberra-178155161
 175255493	2018-05-02 06:02:07	2000-01-01	$285,000	1515-120-eastern-valley-way-belconnen-canberra-175255493
 175236206	2018-05-03 00:49:41	2020-04-07	By Negotiation	18-28-torrens-street-braddon-canberra-175236206
-175653763	2018-08-16 00:35:30		$610,000	5-52-macleay-street-turner-canberra-175653763
+175653763	2018-08-16 00:35:30	2020-04-16	$610,000	5-52-macleay-street-turner-canberra-175653763
 175672922	2018-08-16 22:50:29	2020-03-10	By Negotiation	1-17-coane-street-holder-canberra-175672922
 175684919	2018-08-21 00:42:30	2020-03-20	By Negotiation	102-39-benjamin-way-belconnen-canberra-175684919
 175654904	2018-08-22 14:00:00	2020-02-28	$250,000	22-177-badimara-street-fisher-canberra-175654904
 175698156	2018-08-23 04:02:07	2020-03-02	By Negotiation	32-rosebery-street-fisher-canberra-175698156
 175760370	2018-09-14 04:04:08	2020-03-26	$515,000	ivy-type-2g-15-irving-street-woden-canberra-175760370
 175797432	2018-09-17 05:52:39	2020-02-14	$985,000	5-2-bindel-street-aranda-canberra-175797432
-175836368	2018-09-28 01:52:13		$440,000	16-39-eastlake-parade-kingston-canberra-175836368
+175836368	2018-09-28 01:52:13	2020-04-17	$440,000	16-39-eastlake-parade-kingston-canberra-175836368
 175860413	2018-10-03 00:32:10	2020-04-01	$476,000	2-secretary-street-bonner-canberra-175860413
 175863758	2018-10-03 06:30:37	2020-02-13	$240,000	63-banksia-drive-symonston-canberra-175863758
-178186959	2018-10-09 23:00:45		$1,280,000	campbell5-siena-3-bedroom-campbell-canberra-178186959
+178186959	2018-10-09 23:00:45	2020-04-14	$1,280,000	campbell5-siena-3-bedroom-campbell-canberra-178186959
 175902984	2018-10-12 01:32:16	2020-03-10	$630,000	35-mentone-view-conder-canberra-175902984
 175942254	2018-10-23 00:29:35	2020-02-14	$1,125,000	3-watt-street-campbell-canberra-175942254
 178156852	2018-10-26 06:38:28	2020-04-02	$650,000	founders-lane-stage-two-provenance-2-bed-2-bath-braddon-canberra-178156852
