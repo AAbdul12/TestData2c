@@ -1,6 +1,6 @@
 ListingId	ListingDate	SaleDate	SaleAmount	Slug
 174095677	2017-08-02 03:22:00	2020-03-20	$1,210,000	18-lane-poole-place-yarralumla-canberra-174095677
-174248996	2017-08-30 05:41:51		$288,000	10-35-tay-street-watson-canberra-174248996
+174248996	2017-08-30 05:41:51	2020-04-15	$288,000	10-35-tay-street-watson-canberra-174248996
 174295635	2017-09-06 03:55:51	2020-04-06	$390,000	ivy-1-bedroom-15-irving-street-woden-canberra-174295635
 178057208	2017-09-13 06:29:46	2020-03-11	$659,900	evergreen-4-bedroom-townhouse-coombs-canberra-178057208
 178133421	2017-10-11 22:58:25	2020-03-27	$329,900	lumi-collection-1-bedroom-gungahlin-canberra-178133421
