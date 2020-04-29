@@ -14,6 +14,7 @@ ListingId	ListingDate	SaleDate	SaleAmount	Slug
 175684919	2018-08-21 00:42:30	2020-03-20	By Negotiation	102-39-benjamin-way-belconnen-canberra-175684919
 175654904	2018-08-22 14:00:00	2020-02-28	$250,000	22-177-badimara-street-fisher-canberra-175654904
 175698156	2018-08-23 04:02:07	2020-03-02	By Negotiation	32-rosebery-street-fisher-canberra-175698156
+175777652	2018-09-12 00:13:13		$450,000	14-138-flemington-road-harrison-canberra-175777652
 175760370	2018-09-14 04:04:08	2020-03-26	$515,000	ivy-type-2g-15-irving-street-woden-canberra-175760370
 175797432	2018-09-17 05:52:39	2020-02-14	$985,000	5-2-bindel-street-aranda-canberra-175797432
 175836368	2018-09-28 01:52:13	2020-04-17	$440,000	16-39-eastlake-parade-kingston-canberra-175836368
