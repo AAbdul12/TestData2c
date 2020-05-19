@@ -9,13 +9,15 @@ ListingId	ListingDate	SaleDate	SaleAmount	Slug
 178155161	2018-03-14 22:47:23	2020-04-03	$620,000	founders-lane-stage-two-provenance-2-bedroom-braddon-canberra-178155161
 175255493	2018-05-02 06:02:07	2000-01-01	$285,000	1515-120-eastern-valley-way-belconnen-canberra-175255493
 175236206	2018-05-03 00:49:41	2020-04-07	By Negotiation	18-28-torrens-street-braddon-canberra-175236206
-175288295	2018-05-10 00:02:46		By Negotiation	26-numeralla-street-o-malley-canberra-175288295
+175288295	2018-05-10 00:02:46	2020-05-11	By Negotiation	26-numeralla-street-o-malley-canberra-175288295
+175444927	2018-06-20 02:34:30		$312,500	817-17-dooring-street-braddon-canberra-175444927
 175653763	2018-08-16 00:35:30	2020-04-16	$610,000	5-52-macleay-street-turner-canberra-175653763
 175672922	2018-08-16 22:50:29	2020-03-10	By Negotiation	1-17-coane-street-holder-canberra-175672922
 175684919	2018-08-21 00:42:30	2020-03-20	By Negotiation	102-39-benjamin-way-belconnen-canberra-175684919
 175654904	2018-08-22 14:00:00	2020-02-28	$250,000	22-177-badimara-street-fisher-canberra-175654904
 175698156	2018-08-23 04:02:07	2020-03-02	By Negotiation	32-rosebery-street-fisher-canberra-175698156
 175777652	2018-09-12 00:13:13	2020-04-24	$450,000	14-138-flemington-road-harrison-canberra-175777652
+175779700	2018-09-12 04:30:33		$315,000	71-77-gozzard-street-gungahlin-canberra-175779700
 175760370	2018-09-14 04:04:08	2020-03-26	$515,000	ivy-type-2g-15-irving-street-woden-canberra-175760370
 175797432	2018-09-17 05:52:39	2020-02-14	$985,000	5-2-bindel-street-aranda-canberra-175797432
 175818938	2018-09-25 15:20:24	2020-05-07	$325,000	18-47-mcmillan-crescent-griffith-canberra-175818938
@@ -35,11 +37,11 @@ ListingId	ListingDate	SaleDate	SaleAmount	Slug
 176025333	2018-11-07 13:00:00	2020-03-06	$517,500	31-77-northbourne-avenue-turner-canberra-176025333
 175999153	2018-11-08 08:34:13	2020-04-06	$530,000	ivy-type-2j-15-irving-street-woden-canberra-175999153
 177947277	2018-11-08 23:24:46	2000-01-01	$695,000	altura-3-bedroom-townhouse-denman-prospect-canberra-177947277
-176027711	2018-11-08 23:33:20		$335,000	46-25-john-gorton-drive-wright-canberra-176027711
+176027711	2018-11-08 23:33:20	2020-05-13	$335,000	46-25-john-gorton-drive-wright-canberra-176027711
 176056309	2018-11-15 22:15:00	2020-03-27	$1,879,000	3-borrowdale-street-red-hill-canberra-176056309
 176076688	2018-11-20 04:21:34	2020-03-31	$505,000	11-54-moore-street-turner-canberra-176076688
 176041469	2018-11-22 01:30:57	2020-03-17	$450,000	34-40-henry-kendall-street-franklin-canberra-176041469
-176114950	2018-11-29 00:02:09		$540,000	19-22-teague-street-cook-canberra-176114950
+176114950	2018-11-29 00:02:09	2020-05-11	$540,000	19-22-teague-street-cook-canberra-176114950
 178098093	2018-11-29 23:41:41	2020-03-20	$750,000	limani-townhouse-4-greenway-canberra-178098093
 176145510	2018-12-06 04:21:13	2020-03-10	$925,000	35-curlewis-crescent-garran-canberra-176145510
 176148771	2018-12-06 21:41:21	2020-03-23	$440,000	704-53-mort-street-braddon-canberra-176148771
