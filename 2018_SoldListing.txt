@@ -14,11 +14,11 @@ ListingId	ListingDate	SaleDate	SaleAmount	Slug
 175288295	2018-05-10 00:02:46	2020-05-11	By Negotiation	26-numeralla-street-o-malley-canberra-175288295
 175444927	2018-06-20 02:34:30	2020-05-18	$312,500	817-17-dooring-street-braddon-canberra-175444927
 175464926	2018-06-26 06:14:08	2000-01-01	$689,900	4-108-dooring-street-dickson-canberra-175464926
-175604693	2018-07-31 14:00:00		By Negotiation	754-kaveneys-road-jeir-nsw-2582
+175604693	2018-07-31 14:00:00	2000-01-01	By Negotiation	754-kaveneys-road-jeir-nsw-2582
 175653763	2018-08-16 00:35:30	2020-04-16	$610,000	5-52-macleay-street-turner-canberra-175653763
 175672922	2018-08-16 22:50:29	2020-03-10	By Negotiation	1-17-coane-street-holder-canberra-175672922
 175684919	2018-08-21 00:42:30	2020-03-20	By Negotiation	102-39-benjamin-way-belconnen-canberra-175684919
-175654903	2018-08-22 14:00:00		$335,000	unit-7-177-badimara-street-fisher-act-2611
+175654903	2018-08-22 14:00:00	2000-01-01	$335,000	unit-7-177-badimara-street-fisher-act-2611
 175654904	2018-08-22 14:00:00	2020-02-28	$250,000	22-177-badimara-street-fisher-canberra-175654904
 175698156	2018-08-23 04:02:07	2020-03-02	By Negotiation	32-rosebery-street-fisher-canberra-175698156
 175777652	2018-09-12 00:13:13	2020-04-24	$450,000	14-138-flemington-road-harrison-canberra-175777652
@@ -48,7 +48,7 @@ ListingId	ListingDate	SaleDate	SaleAmount	Slug
 176056309	2018-11-15 22:15:00	2020-03-27	$1,879,000	3-borrowdale-street-red-hill-canberra-176056309
 176076688	2018-11-20 04:21:34	2020-03-31	$505,000	11-54-moore-street-turner-canberra-176076688
 176041469	2018-11-22 01:30:57	2020-03-17	$450,000	34-40-henry-kendall-street-franklin-canberra-176041469
-176112897	2018-11-28 06:30:52		$645,000	unit-24-29-state-circle-deakin-act-2600
+176112897	2018-11-28 06:30:52	2000-01-01	$645,000	unit-24-29-state-circle-deakin-act-2600
 176114950	2018-11-29 00:02:09	2020-05-11	$540,000	19-22-teague-street-cook-canberra-176114950
 178098093	2018-11-29 23:41:41	2020-03-20	$750,000	limani-townhouse-4-greenway-canberra-178098093
 176141615	2018-12-05 23:12:08	2020-05-20	$357,000	34-40-leahy-close-narrabundah-canberra-176141615
